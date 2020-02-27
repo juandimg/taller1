@@ -71,7 +71,7 @@ echo("Cantidad Vendida: ".$cantidadZapatos."<br> Valor zapatos: ".$valorZapatos.
 
 
 
-
+echo ("<br><br>Ejercicio 4 <br>");
 
 
 
