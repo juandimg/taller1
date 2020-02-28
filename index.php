@@ -75,6 +75,31 @@ echo ("<br><br>Ejercicio 4 <br>");
 
 
 
+$sdevengado=0;
+$hTrabajadas=36;
+$vHora=20000;
+$vExtras=25000;
+$hExtras=$hTrabajadas-40;
+$sdevengadoe=$hTrabajadas*$vExtras;
+
+
+
+
+
+if($hTrabajadas <=40){
+    $sdevengado=$vHora*$hTrabajadas;
+    echo("Numero de horas trabajadas: ".$hTrabajadas."<br> Sueldo recibido: ".$sdevengado);
+
+    
+}else {
+    echo("Numero de horas trabajadas Extras: ".$hExtras."<br> Sueldo recibido: ".$sdevengadoe);
+}
+
+
+
+
+
+
 
 
 
