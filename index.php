@@ -100,18 +100,7 @@ echo ("<br><br>Ejercicio 5 <br>");
 
 
 
-$sueldo1=2550000;
 
-
-
-
-
-
-
-
-
-
-echo("Juan Diego Montes " ." -". " 3221456987". "calle 65#52d160 " ."-".$sueldo1);
 
 
 
