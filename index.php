@@ -98,6 +98,12 @@ if($hTrabajadas <=40){
 
 echo ("<br><br>Ejercicio 5 <br>");
 
+$persona1=Juan Diego;
+$persona2=
+$persona3=
+$persona4=
+$persona5=
+
 
 
 
