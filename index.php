@@ -99,10 +99,39 @@ if($hTrabajadas <=40){
 echo ("<br><br>Ejercicio 5 <br>");
 
 $persona1=Juan Diego;
-$persona2=
-$persona3=
-$persona4=
-$persona5=
+$persona2=Maria;
+$persona3=Luis;
+$persona4=Karen;
+$persona5=Felipe;
+$telefono1=3125896478;
+$telefono2=3112056336;
+$telefono3=3155569876;
+$telefono4=3225896332;
+$telefono5=3135598763;
+$direccion1=calle65#32;
+$direccion2=calle49#66;
+$direccion3=calle56#57;
+$direccion4=calle36#28;
+$direccion5=calle62#55;
+$salario1=1500000;
+$salario2=3000000;
+$salario3=2600000;
+$salario4=3200000;
+$salario5=1550000;
+$totalsalario=$salario1+$salario2+$salario3+$salario4+$salario5;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
